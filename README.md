@@ -30,6 +30,7 @@ This repository contains code for Computer Vision, Deep learning, and AI researc
 
 | Blog Post | Code|
 | ------------- |:-------------|
+| [Decoding Virat Kohli's Flick Shot: AI-Based 3D Motion Reconstruction](https://learnopencv.com/decoding-virat-kohlis-flick-shot-ai-based-3d-motion-reconstruction/) | [Code](https://github.com/spmallick/learnopencv/tree/master/Decoding-Virats-Flick-Shot) |
 | [How to Run Object Detection with OpenCV 5](https://learnopencv.com/how-to-run-object-detection-with-opencv-5/) |  |
 | [World Cup 2026 Offside Technology: AI, Computer Vision, and the Connected Ball](https://learnopencv.com/world-cup-2026-offside-technology/) |  |
 | [AI Aced JEE Advanced 2026. Can You Trust It to Teach You?](https://learnopencv.com/ai-aced-jee-advanced-2026-can-you-trust-it-to-teach-you/) |  |
